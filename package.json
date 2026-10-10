@@ -1,7 +1,7 @@
 {
   "name": "mineflayer-auto-bot",
-  "version": "1.0.0",
-  "description": "Auto register/login bot with Mineflayer for kalwi.id",
+  "version": "2.0.0",
+  "description": "Multi-session Mineflayer bot with auto-reconnect for kalwi.id",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
