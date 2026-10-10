@@ -7,7 +7,7 @@ const CONFIG = {
   version: '1.21',
 
   // ==== BOT & SESSION ====
-  totalBots: 20,          // total bot yang mau dijalankan
+  totalBots: 1000,          // total bot yang mau dijalankan
   sessionSize: 5,         // bot per session (per batch spawn)
   sessionDelay: 5000,     // jeda antar session (ms)
 
