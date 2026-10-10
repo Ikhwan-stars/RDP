@@ -2,13 +2,13 @@ const mineflayer = require('mineflayer');
 
 // ============ KONFIGURASI MANUAL ============
 const CONFIG = {
-  host: 'evertalemc.id',
-  port: 25565,
+  host: 'play.inacraft.my.id',
+  port: 19132,
   version: '1.21',
 
   // ==== BOT & SESSION ====
   totalBots: 1000,          // total bot yang mau dijalankan
-  sessionSize: 5,         // bot per session (per batch spawn)
+  sessionSize: 10,         // bot per session (per batch spawn)
   sessionDelay: 5000,     // jeda antar session (ms)
 
   // ==== TIMING ====
