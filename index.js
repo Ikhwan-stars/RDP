@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer');
 
 // ============ KONFIGURASI MANUAL ============
 const CONFIG = {
-  host: 'host.zettanode.my.id',
-  port: 19131,
+  host: 'evertalemc.id',
+  port: 25565,
   version: '1.21',
 
   // ==== BOT & SESSION ====
