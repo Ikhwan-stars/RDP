@@ -1,12 +1,18 @@
 {
-  "name": "mineflayer-auto-bot",
-  "version": "2.0.0",
-  "description": "Multi-session Mineflayer bot with auto-reconnect for kalwi.id",
+  "name": "snowypay-bot",
+  "version": "1.0.0",
+  "description": "SnowyPay - Alight Motion Premium Telegram Bot",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
   "dependencies": {
-    "mineflayer": "^4.20.1"
+    "axios": "^1.7.7",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   }
 }
