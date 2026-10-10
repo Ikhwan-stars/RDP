@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 // ============ KONFIGURASI MANUAL ============
 const CONFIG = {
-  host: 'kalwi.id',
+  host: 'valoriasmp.id',
   port: 25565,
   version: '1.21',
 
@@ -16,7 +16,7 @@ const CONFIG = {
   reconnectDelay: 8000,     // jeda sebelum reconnect setelah disconnect (ms)
 
   // ==== AUTH ====
-  password: 'iikgmg',
+  password: 'iikgmg iikgmg',
   serverCmd: '/sv2',
 
   // ==== NAMA ====
