@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 // ============ KONFIGURASI MANUAL ============
 const CONFIG = {
-  host: 'play.inacraft.my.id',
+  host: 'kalwi.id',
   port: 25565,
   version: '1.21',
 
