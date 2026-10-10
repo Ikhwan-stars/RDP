@@ -3,7 +3,7 @@ const mineflayer = require('mineflayer');
 // ============ KONFIGURASI MANUAL ============
 const CONFIG = {
   host: 'play.inacraft.my.id',
-  port: 19132,
+  port: 25565,
   version: '1.21',
 
   // ==== BOT & SESSION ====
